@@ -1,0 +1,15 @@
+document.writeln("   <script src=\"js/lang.js\"></script>");
+document.writeln(" <div class=\"navbar navbar-inverse navbar-fixed-top min_width\" style=\"position:fixed;\">");
+document.writeln("      <div class=\"navbar-inner\">");
+document.writeln("        <div class=\"container-fluid\">");
+document.writeln("              <ul class=\"nav\" style=\"margin-top:10px; padding-left:10px;\">");
+document.writeln("              <li><a href=\"#\"><img src=\"img/news_06.png\"></a></li>");
+document.writeln("              <li><a href=\"#\"><img src=\"img/news_08.png\"></a></li>");
+document.writeln("              <li><a href=\"#\"><img src=\"img/news_10.png\"></a></li>");
+document.writeln("              <li><a href=\"#\"><img src=\"img/news_12.png\"></a></li>");
+document.writeln("              <li style=\"margin:10px 0px 0px 22px;\"><img src=\"img/news_03.png\"></li>");
+document.writeln("            </ul>");
+document.writeln("            <p class=\"navbar-text pull-right\"><span class=\"topnav-line\">&nbsp;</span><a href=\"http://www.seven-baby.com\" target=\"_blank\"><span class=\"arial\">www.<font class=\"color01\">seven-baby</font>.com</span></a> <span class=\"topnav-line\">&nbsp;</span><font class=\"color02\"><a href=\"javascript:zh_tran(\'t\');\" class=\"zh_click\" id=\"zh_click_t\">繁</a></font><span class=\"topnav-line\">&nbsp;</span><a href=\"javascript:zh_tran(\'s\');\" class=\"zh_click\" id=\"zh_click_s\">简</a><span class=\"topnav-line\">&nbsp;</span></p>");
+document.writeln("        </div>");
+document.writeln("      </div>");
+document.writeln("    </div>");
